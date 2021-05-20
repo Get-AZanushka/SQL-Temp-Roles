@@ -9,7 +9,7 @@ Customer request was to have a mechanism to provide Azure AD users temporary acc
 
 2. Create an Azure Automation account with Run As account (service principal)
 3. Give Service Principal Azure AD Admin permissions to SQL Server
-4. Add runbooks from this repo to Azure Automation account
-  [Provide access](https://github.com/Get-AZanushka/SQL-Temp-Roles/blob/main/New-SQLAzureUser.ps1)
-  [Remove access](https://github.com/Get-AZanushka/SQL-Temp-Roles/blob/main/Remove-SQLAzureUser.ps1)
+4. Add runbooks from this repo to Azure Automation account <br />
+  [Provide access](https://github.com/Get-AZanushka/SQL-Temp-Roles/blob/main/New-SQLAzureUser.ps1) <br />
+  [Remove access](https://github.com/Get-AZanushka/SQL-Temp-Roles/blob/main/Remove-SQLAzureUser.ps1) <br />
 6. Create Logic App using code from this repo
