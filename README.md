@@ -20,5 +20,5 @@ Customer request was to have a mechanism to provide Azure AD users temporary acc
 ### Run Azure Automation runbook to provide access
 ![image](https://user-images.githubusercontent.com/76528226/118905252-5cdfe580-b8e9-11eb-84d2-d840c77ed0f2.png)
 ### Run Azure Automation runbook with specified delay to remove access
-![image](https://user-images.githubusercontent.com/76528226/118905311-77b25a00-b8e9-11eb-914e-314b92be0968.png)
+![image](https://user-images.githubusercontent.com/76528226/118905654-23f44080-b8ea-11eb-9225-0274c94df619.png)
 
