@@ -18,7 +18,7 @@ Customer request was to have a mechanism to provide Azure AD users temporary acc
 ### Trigger using Form
 ![image](https://user-images.githubusercontent.com/76528226/118905177-391c9f80-b8e9-11eb-9d60-c9276f803029.png)
 ### Run Azure Automation runbook to provide access
-![image](https://user-images.githubusercontent.com/76528226/118905252-5cdfe580-b8e9-11eb-84d2-d840c77ed0f2.png)
+![image](https://user-images.githubusercontent.com/76528226/118905745-5140ee80-b8ea-11eb-9812-14535abf65ad.png)
 ### Run Azure Automation runbook with specified delay to remove access
 ![image](https://user-images.githubusercontent.com/76528226/118905654-23f44080-b8ea-11eb-9225-0274c94df619.png)
 
